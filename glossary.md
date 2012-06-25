@@ -34,9 +34,16 @@
 - Continuous Delivery
     - 継続的デリバリー
 
+- Daily Scrum, Daily Scrum Meeting
+    - デイリースクラム
+    - 朝会
+
 - Deliver
     - デリバー
     - 届ける
+
+- Impediment
+    - 障害、障害物
 
 - Member
     - メンバー
@@ -44,14 +51,24 @@
 - Potentially Shippable Increment
     - ??? 悩み中。
 
+- Practice
+    - プラクティス
+    - 実践、実践項目
+
 - Product Owner
     - プロダクトオーナー
 
 - Role
     - 役割
 
+- Self-organizing
+    - 自己組織化
+
 - Scrum Master
     - スクラムマスター
+
+- Sprint
+    - スプリント
 
 - Team
     - チーム
