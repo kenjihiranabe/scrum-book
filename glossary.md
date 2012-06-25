@@ -5,59 +5,58 @@
 本で使うので。。。
 まだ途中です。
 
-凡例：
+## 凡例：
 
 - 英語名
     - 日本語第一訳
-    - その他の訳
+    - その他の訳,これらも検討中たぶん第一訳にする
     - 備考
 
 --------------------------------------------------------------
 
-* Artifact
-* 成果物
-* 指標
-* バーンダウンチャート、製品バックログ、 スプリントバックログのこと。もうちょっといい訳がないか、と思っている。
+- Artifact
+    - 成果物
+    - 指標
+    - バーンダウンチャート、製品バックログ、 スプリントバックログのこと。もうちょっといい訳がないか、と思っている。
 
-* Backlog
-* バックログ
-*
-* 製品バックログと、スプリントバックログがある。
+- Backlog
+    - バックログ
+    -
+    - 製品バックログと、スプリントバックログがある。
 
-* CI
-* CI
-*
-* Continuous Integration の略
+- CI
+    - CI
+    -
+    - Continuous Integration の略
 
-* Continuous Integration
-* 継続的インテグレーション
-*
-* この日本語訳は、ＣＩを最初に訳した小野さんに経緯を表して。
+- Continuous Integration
+    - 継続的インテグレーション
+    -
+    - この日本語訳は、ＣＩを最初に訳した小野さんに経緯を表して。
 
-* Continuous Delivery
-* 継続的デリバリー
-*
-*
+- Continuous Delivery
+    - 継続的デリバリー
+    -
+    -
 
-* Deliver
-* デリバー
-* 届ける
-*
+- Deliver
+    - デリバー
+    - 届ける
 
-* Member
-* メンバー
+- Member
+    - メンバー
 
-* Potentially Shippable Increment
-* ??? 悩み中。
+- Potentially Shippable Increment
+    - ??? 悩み中。
 
-* Product Owner
-* プロダクトオーナー
+- Product Owner
+    - プロダクトオーナー
 
-* Role
-* 役割
+- Role
+    - 役割
 
-* Scrum Master
-* スクラムマスター
+- Scrum Master
+    - スクラムマスター
 
-* Team
-* チーム
+- Team
+    - チーム
